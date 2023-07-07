@@ -1,0 +1,68 @@
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.exe
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.deps.json
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.runtimeconfig.json
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.AssemblyReference.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.GenerateResource.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfoInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfo.cs
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.CoreCompileInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\refint\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.genruntimeconfig.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie\WinFormsApp1\obj\Debug\net6.0-windows\ref\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.exe
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.deps.json
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.runtimeconfig.json
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.AssemblyReference.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.GenerateResource.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfoInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfo.cs
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.CoreCompileInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\refint\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.genruntimeconfig.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\ref\Szyfrowanie.dll
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.exe
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.deps.json
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.runtimeconfig.json
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.dll
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.pdb
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.GenerateResource.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.dll
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\refint\Szyfrowanie.dll
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.pdb
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.genruntimeconfig.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\ref\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.exe
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.deps.json
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.runtimeconfig.json
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\bin\Debug\net6.0-windows\Szyfrowanie.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.AssemblyReference.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.GenerateResource.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfoInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.AssemblyInfo.cs
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.csproj.CoreCompileInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\refint\Szyfrowanie.dll
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\Szyfrowanie.genruntimeconfig.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB)\Szyfrowanie Kamil Falgowski 39626\WinFormsApp1\obj\Debug\net6.0-windows\ref\Szyfrowanie.dll
